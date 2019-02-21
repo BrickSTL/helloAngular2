@@ -1,0 +1,23 @@
+div{
+    font-family: 'Raleway'
+}
+
+.warning{
+    background:red;
+    color:white;
+}
+.success{
+    background: green
+}
+.box{
+    height: 100px;
+    width:250px;
+    padding-top:2.5%;
+    color:white;    
+}
+.right{
+    background: purple;
+}
+.left{
+    background: orange;
+}
